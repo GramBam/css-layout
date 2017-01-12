@@ -1,0 +1,46 @@
+
+h1 {
+  padding: 20px;
+  background-color: #1D2120;
+  color: white;
+  text-align: center;
+  margin: 0px;
+}
+
+h2 {
+  background-color: #33FFD2;
+  padding: 20px
+}
+.sixx {
+text-decoration: underline;
+text-decoration-color: yellow;
+}
+.bar {
+background-color: #C3C5C4;
+text-align: center;
+color: white;
+margin: 0px;
+}
+
+.photos {
+display: inline-block;
+
+}
+footer {
+padding: 10px;
+background-color: #FFD300;
+}
+
+.bar li {
+display: inline-block;
+padding: 5px;
+}
+
+h3 {
+background-color: black;
+color: white;
+padding: 10px;
+margin: 5px;
+font-size: 75%;
+text-align: center;
+}
